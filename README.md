@@ -1,2 +1,3 @@
-# OutriX_tasks
+
+churn and sales analysis
 All tasks for the OutriX Internship
